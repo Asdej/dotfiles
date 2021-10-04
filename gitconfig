@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = astriddejaegher97@gmail.com
+	name = Astrid deJaegher
